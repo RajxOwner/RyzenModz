@@ -1,6 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6P69gdkhd5scdAs1FQe9latq8oZm2UIwX5zN06A2lQ7vsX6HxLquG38&s=10...)
 
-<h1 align="center">Hi 👋, I'm Ryzen Modz</h1>
+<h1 align="center">Hi 👋, I'm Raj </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzenmodz&label=Profile%20views&color=0e75b6&style=flat" alt="ryzenmodz" /> </p>
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/ryzenmodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryzenmodz" height="30" width="40" /></a>
 <a href="https://t.me/+eokihyagq9e2ngq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://t.me/+eokihyagq9e2ngq1" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCeFpsbVm9pRQxQ_8A5JTd2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryzen modz" height="30" width="40" /></a>
-<a href="https://t.me/+EoKIHyagq9E2NGQ1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://t.me/+EoKIHyagq9E2NGQ1" height="30" width="40" /></a>
+<a href="https://t.me/https://t.me/+u4Xfh_C89gdmOGI9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://t.me/+EoKIHyagq9E2NGQ1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
