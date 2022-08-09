@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ryzenmodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryzenmodz" height="30" width="40" /></a>
-<a href="https://t.me/+eokihyagq9e2ngq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://t.me/+eokihyagq9e2ngq1" height="30" width="40" /></a>
+<a href="https://instagram.com/raj_x_owner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryzenmodz" height="30" width="40" /></a>
+<a href="https://instagram.com/raj_x_owner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://t.me/+eokihyagq9e2ngq1" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCeFpsbVm9pRQxQ_8A5JTd2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryzen modz" height="30" width="40" /></a>
-<a href="https://t.me/https://t.me/+u4Xfh_C89gdmOGI9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://t.me/+EoKIHyagq9E2NGQ1" height="30" width="40" /></a>
+<a href="https://instagram.com/raj_x_owner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://t.me/+EoKIHyagq9E2NGQ1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
